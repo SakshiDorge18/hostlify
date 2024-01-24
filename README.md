@@ -23,11 +23,11 @@ Azure AI Service <br>
     <li>Chatbot Support</li>
     <li>User-Friendly Interface</li>
     <li>History Tracking and Recent Searches</li>
-    <li>Azure App Service Hosting</li>
+    <li>Azure Virtual Machine </li>
     <li>Azure SQL Database for Efficient Data Management</li>
 </ul>
 <h2>Core Azure Services</h2>
-<b>Azure Virtual Machine :</b><br><p align="justify"><br>Facilitates the hosting and deployment of the PHP-based Hostel Management System, ensuring scalability and reliability.</p>
+<b>Azure Virtual Machine. :</b><br><p align="justify"><br>Facilitates the hosting and deployment of the PHP-based Hostel Management System, ensuring scalability and reliability.</p>
 <b>Azure MySQL Dtatabase :</b><br><p align="justify">Provides a secure and efficient storage solution for hostel data, supporting seamless data retrieval and manipulation.</p>
 <h2>Azure AI Service</h2>
 <b>Azure AI Bot Service :</b><br><br><p align="justify">Powers the Chatbot with natural language processing capabilities, allowing it to understand and respond to user queries effectively.</p>
