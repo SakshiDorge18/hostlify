@@ -4,12 +4,12 @@
 <h2>Project Details</h2>
 <b>Project Demo URL :</b> http://hostelmgmtapp.eastus.cloudapp.azure.com/hostlify/ <br>
 <b>Demo Video URL :</b> https://drive.google.com/file/d/1bLptg01EM3NtTRZY6j6X_FCmrwf_2TN9/view <br>
-<b>Github Repository URL :</b>https://github.com/SakshiDorge18/Hostel_Management_System.git<br>
+<b>Github Repository URL :</b>https://github.com/SakshiDorge18/hostlify.git<br>
 <b>Industry :</b> Lifestyle and Technology<br>
 <h2>Azure Services Used</h2>
 <h3>
 Core Azure Services : <br>
-1. Azure App Service <br>
+1. Azure Virtual Machine <br>
 2. Azure SQL Database <br> <br>
 Azure AI Service <br>
 1. Azure AI Bot Service
@@ -27,7 +27,7 @@ Azure AI Service <br>
     <li>Azure SQL Database for Efficient Data Management</li>
 </ul>
 <h2>Core Azure Services</h2>
-<b>Azure App Service :</b><br><p align="justify"><br>Facilitates the hosting and deployment of the PHP-based Hostel Management System, ensuring scalability and reliability.</p>
+<b>Azure Virtual Machine :</b><br><p align="justify"><br>Facilitates the hosting and deployment of the PHP-based Hostel Management System, ensuring scalability and reliability.</p>
 <b>Azure MySQL Dtatabase :</b><br><p align="justify">Provides a secure and efficient storage solution for hostel data, supporting seamless data retrieval and manipulation.</p>
 <h2>Azure AI Service</h2>
 <b>Azure AI Bot Service :</b><br><br><p align="justify">Powers the Chatbot with natural language processing capabilities, allowing it to understand and respond to user queries effectively.</p>
