@@ -1,8 +1,8 @@
 <h1>Microsoft-Future-Ready-Talent-Virtual-Internship-Project </h1>
-<h2>Project Title:</h2><b><a href="https://myazureappabc.azurewebsites.net/">Hostel Management System  with Azure AI Chatbot Integration.</b></a>
+<h2>Project Title:</h2><b><a href="http://hostelmgmtapp.eastus.cloudapp.azure.com/hostlify/">Hostel Management System  with Azure AI Chatbot Integration.</b></a>
 <br>
 <h2>Project Details</h2>
-<b>Project Demo URL :</b> https://myazureappabc.azurewebsites.net/ <br>
+<b>Project Demo URL :</b> http://hostelmgmtapp.eastus.cloudapp.azure.com/hostlify/ <br>
 <b>Demo Video URL :</b> https://drive.google.com/file/d/1bLptg01EM3NtTRZY6j6X_FCmrwf_2TN9/view <br>
 <b>Github Repository URL :</b>https://github.com/SakshiDorge18/Hostel_Management_System.git<br>
 <b>Industry :</b> Lifestyle and Technology<br>
@@ -65,4 +65,4 @@ The Hostel Management System with Azure AI Chatbot Integration is a robust solut
 <p align="justify">
 <b>As we finish, Hostel Management Project isn't always just an utility; it's an ongoing exploration of endless communication possibilities. In this era of worldwide connectivity, this undertaking signifies a pivotal step toward a greater accessible and interconnected international.</b>
 </p> <br>
-</h2><b><a href="https://myazureappabc.azurewebsites.net/">Hostel Managament System using Azure AI Chatbot Service</b></a>
+</h2><b><a href="http://hostelmgmtapp.eastus.cloudapp.azure.com/hostlify/">Hostel Managament System using Azure AI Chatbot Service</b></a>
