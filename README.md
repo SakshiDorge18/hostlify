@@ -59,7 +59,7 @@ Azure AI Service <br>
 <img src="https://github.com/SakshiDorge18/hostlify/blob/main/screenshots/mybot.png"></img><br>
 
 <h3>Resource Visualizer</h3>
-<img src="https://github.com/SakshiDorge18/hostlify/blob/main/screenshots/virtual_machine.png" alt="resource-display"></img>
+<img src="https://github.com/SakshiDorge18/hostlify/blob/main/screenshots/Screenshot%202024-01-24%20142109.png" alt="resource-display"></img>
 
 <h2>Final Project Statement</h2>
 <p align="justify">
